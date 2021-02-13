@@ -8,6 +8,11 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    <dependencies> 
+       <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpclient</artifactId>
+      <version>4.5.3</version>
+    </dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
